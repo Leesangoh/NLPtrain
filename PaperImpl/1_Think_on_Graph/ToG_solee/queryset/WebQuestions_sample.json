@@ -1,0 +1,16 @@
+[
+    {
+        "url": "http://www.freebase.com/view/en/jamaica",
+        "question": "what does jamaican people speak?",
+        "answers": [
+            "Jamaican Creole English Language",
+            "Jamaican English"
+        ],
+        "topic_entity": {
+            "m.03_r3": "Jamaica"
+        },
+        "qid_topic_entity": {
+            "Q766": "Jamaica"
+        }
+    }
+]
