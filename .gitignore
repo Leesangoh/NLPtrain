@@ -1,4 +1,6 @@
 data/
 dataset/
 wandb/
+datasets/
+results/
 *.log
